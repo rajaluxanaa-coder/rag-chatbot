@@ -1,0 +1,48 @@
+ARTIFICIAL INTELLIGENCE (AI)
+AI is the simulation of human intelligence in machines programmed to think and learn. AI can perform tasks like visual perception, speech recognition, decision-making, and translation.
+
+MACHINE LEARNING (ML)
+ML is a subset of AI that enables systems to learn from data without explicit programming. Algorithms build mathematical models to make predictions.
+
+DEEP LEARNING (DL)
+DL uses artificial neural networks with multiple layers to learn complex patterns in data. It's inspired by the human brain structure.
+
+RAG (RETRIEVAL-AUGMENTED GENERATION)
+RAG combines information retrieval with generative AI. It retrieves relevant information from a knowledge base then generates accurate responses.
+
+NATURAL LANGUAGE PROCESSING (NLP)
+NLP helps computers understand human language. It's used in chatbots, translation, and text analysis.
+
+NEURAL NETWORKS
+Neural networks are computing systems inspired by biological neural networks. They consist of connected nodes (neurons) that process information.
+
+SUPERVISED LEARNING
+A type of ML where models are trained on labeled data. The algorithm learns to map inputs to outputs.
+
+UNSUPERVISED LEARNING
+ML where models find patterns in unlabeled data. Used for clustering and dimensionality reduction.
+
+REINFORCEMENT LEARNING
+ML where agents learn to make decisions by receiving rewards or penalties. Used in robotics and game AI.
+
+TRANSFORMERS
+A neural network architecture that uses attention mechanisms. Used in modern AI like GPT and BERT.
+
+CHATBOTS
+AI programs that simulate human conversation. They use NLP to understand user queries and generate responses.
+
+COMPUTER VISION
+AI field that enables computers to interpret visual information from images and videos.
+
+NARROW AI VS GENERAL AI
+Narrow AI is designed for specific tasks (like Siri). General AI can perform any intellectual task humans can.
+
+ETHICS IN AI
+Important considerations include bias, privacy, transparency, and accountability in AI systems.
+
+AI APPLICATIONS
+Healthcare: Disease diagnosis and drug discovery
+Finance: Fraud detection and trading
+Transportation: Self-driving cars
+Education: Personalized learning
+Customer Service: Chatbots

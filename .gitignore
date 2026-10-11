@@ -1,0 +1,61 @@
+ # Virtual Environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Vector Database (large files - don't upload!)
+vector_db/
+*.bin
+*.sqlite3
+
+# Data files (optional - remove if you want to include sample data)
+# data/knowledge/*
+# !data/knowledge/.gitkeep
+
+# Environment variables (SECRETS - never upload!)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# HuggingFace Cache
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
